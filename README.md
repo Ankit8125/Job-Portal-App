@@ -1,10 +1,12 @@
 Working Video : https://www.youtube.com/watch?v=9jdMz0j4Q_I
 
+
 Note: While running on your local machine, make these changes in actions->index.js->createStripePaymentAction(data):
 
 success_url: 'http://localhost:3000/membership' + '?status=success',
 
 cancel_url: 'http://localhost:3000/membership' + '?status=cancel'
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
