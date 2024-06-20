@@ -1,4 +1,4 @@
-Working Video : https://www.youtube.com/watch?v=9jdMz0j4Q_I
+Working Video : [https://www.youtube.com/watch?v=9jdMz0j4Q_I](https://youtu.be/h4071vDeH1A)
 
 
 Note: While running on your local machine, make these changes in actions->index.js->createStripePaymentAction(data):
