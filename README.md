@@ -20,7 +20,7 @@ A modern job portal application built using Next.js, designed to connect job see
 • <strong>Job Application</strong>: Candidates can browse and apply for jobs, with the application status tracked.<br>
 • <strong>Resume Upload</strong>: Candidates can upload resumes, stored via Supabase.<br>
 • <strong>Premium Membership</strong>: Subscription functionality using Stripe, enabling access to premium features for recruiters and candidates.<br>
-• <strong>Filtering and Sorting</strong>: Dynamic job filtering based on search parameters.<br>
+• <strong>Filtering</strong>: Dynamic job filtering based on search parameters.<br>
 
 ## Usage
 - **For Recruiters**: Post new jobs and view applications.
