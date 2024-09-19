@@ -2,6 +2,17 @@
 ## Working Video : [https://www.youtube.com/watch?v=9jdMz0j4Q_I](https://youtu.be/h4071vDeH1A)
 A modern job portal application built using Next.js, designed to connect job seekers with potential employers, providing features like job listing, user authentication, and membership subscriptions.
 
+## Tools & Technologies Used
+• **Next.js**: Server-side rendering and frontend framework. <br>
+• **Clerk**: For user authentication and session management.<br>
+• **Stripe**: Payment and subscription integration.<br>
+• **MongoDB**: Database for storing user profiles and job listings.<br>
+• **Supabase**: File storage for candidate resumes.<br>
+• **Tailwind CSS**: Styling framework.<br>
+• **Shadcn-UI**: For UI components like buttons, sheets, dialogs.<br>
+• **Lucide-React**: Icon library for modern UI.<br>
+• **Query-String**: Used for filtering jobs via URL parameters.<br>
+
 ## Features
 • <strong>User Authentication </strong>: Seamless login and registration using Clerk.<br>
 • <strong>Role-Based Navigation</strong>: Different UI and functionalities for candidates, recruiters, and unauthenticated users.<br>
@@ -15,18 +26,6 @@ A modern job portal application built using Next.js, designed to connect job see
 - **For Recruiters**: Post new jobs and view applications.
 - **For Candidates**: Browse and apply for jobs, upload resumes.
 - **Premium Users**: Unlock additional features by purchasing a premium membership.
-
-## Tools & Technologies Used
-• **Next.js**: Server-side rendering and frontend framework. <br>
-• **Clerk**: For user authentication and session management.<br>
-• **Stripe**: Payment and subscription integration.<br>
-• **MongoDB**: Database for storing user profiles and job listings.<br>
-• **Supabase**: File storage for candidate resumes.<br>
-• **Tailwind CSS**: Styling framework.<br>
-• **Shadcn-UI**: For UI components like buttons, sheets, dialogs.<br>
-• **Lucide-React**: Icon library for modern UI.<br>
-• **Query-String**: Used for filtering jobs via URL parameters.<br>
-
 
 ## Installation
 1. Clone the repository:
