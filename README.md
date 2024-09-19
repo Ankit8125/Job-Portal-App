@@ -11,6 +11,11 @@ A modern job portal application built using Next.js, designed to connect job see
 • <strong>Premium Membership</strong>: Subscription functionality using Stripe, enabling access to premium features for recruiters and candidates.<br>
 • <strong>Filtering and Sorting</strong>: Dynamic job filtering based on search parameters.<br>
 
+## Usage
+- **For Recruiters**: Post new jobs and view applications.
+- **For Candidates**: Browse and apply for jobs, upload resumes.
+- **Premium Users**: Unlock additional features by purchasing a premium membership.
+
 ## Tools & Technologies Used
 • Next.js: Server-side rendering and frontend framework. <br>
 • Clerk: For user authentication and session management.<br>
@@ -21,6 +26,7 @@ A modern job portal application built using Next.js, designed to connect job see
 • Shadcn-UI: For UI components like buttons, sheets, dialogs.<br>
 • Lucide-React: Icon library for modern UI.<br>
 • Query-String: Used for filtering jobs via URL parameters.<br>
+
 
 ## Installation
 1. Clone the repository:
