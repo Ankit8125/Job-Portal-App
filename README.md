@@ -17,15 +17,15 @@ A modern job portal application built using Next.js, designed to connect job see
 - **Premium Users**: Unlock additional features by purchasing a premium membership.
 
 ## Tools & Technologies Used
-• Next.js: Server-side rendering and frontend framework. <br>
-• Clerk: For user authentication and session management.<br>
-• Stripe: Payment and subscription integration.<br>
-• MongoDB: Database for storing user profiles and job listings.<br>
-• Supabase: File storage for candidate resumes.<br>
-• Tailwind CSS: Styling framework.<br>
-• Shadcn-UI: For UI components like buttons, sheets, dialogs.<br>
-• Lucide-React: Icon library for modern UI.<br>
-• Query-String: Used for filtering jobs via URL parameters.<br>
+• **Next.js**: Server-side rendering and frontend framework. <br>
+• **Clerk**: For user authentication and session management.<br>
+• **Stripe**: Payment and subscription integration.<br>
+• **MongoDB**: Database for storing user profiles and job listings.<br>
+• **Supabase**: File storage for candidate resumes.<br>
+• **Tailwind CSS**: Styling framework.<br>
+• **Shadcn-UI**: For UI components like buttons, sheets, dialogs.<br>
+• **Lucide-React**: Icon library for modern UI.<br>
+• **Query-String**: Used for filtering jobs via URL parameters.<br>
 
 
 ## Installation
